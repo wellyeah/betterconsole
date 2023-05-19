@@ -1,4 +1,4 @@
-var chalk = require('chalk');
+import('chalk');
 var util = require('util');
 var logTable = require('./log_table');
 var axios = require('axios')
