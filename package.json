@@ -1,5 +1,5 @@
 {
-  "name": "betterconsole",
+  "name": "more-consoles",
   "version": "1.0.0",
   "description": "just a npm package that makes the console more readable",
   "main": "index.js",
@@ -18,9 +18,9 @@
   "author": "WellYeah",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^1.1.3",
-    "cli-table": "~0.3.1",
-    "axios": "^0.27.2"
+    "axios": "^1.4.0",
+    "chalk": "^5.2.0",
+    "cli-table": "^0.3.11"
   },
   "bugs": {
     "url": "https://github.com/wellyeah/betterconsole/issues"
